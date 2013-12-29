@@ -1,0 +1,37 @@
+[http://[usernév[:jelszó]@]hostnév]/elérési_út/állomány1/állomány2/állománySok[?paraméterek]
+Username: usernév
+Password: jelszó
+Hostname: hostnév
+Path: elérési_út
+Substance: állomány1/állomány2/állománySok
+Parameters: paraméterek
+
+[http://www.[zolka[:ezajelszo]@]hosztnev]/valami/masikvalami[?paramlesz]
+Username: zolka
+Password: ezajelszo
+Hostname: hosztnev
+Path: valami
+Substance: masikvalami
+Parameters: paramlesz
+
+[www.[bela]@]hooosztnev]/vaaaalami/maaaasikvalami[?paaaaramlesz]
+Username bela
+Hostname: hooosztnev
+Path: vaaaalami
+Substance: maaaasikvalami
+Parameters: paaaaramlesz
+
+[3zolka[:3ezajelszo]@]3hosztnev]/3valami/1masikvalami/2dsf/3alsdf/4alsdf[?3paramlesz]
+Username: 3zolka
+Password: 3ezajelszo
+Hostname: 3hosztnev
+Path: 3valami
+Substance: 1masikvalami/2dsf/3alsdf/4alsdf
+Parameters: 3paramlesz
+
+[www.[3zolka]@]3hosztnev]/3valami/1masikvalami/2dsf/3alsdf/4alsdf[?3paramlesz]
+Username 3zolka
+Hostname: 3hosztnev
+Path: 3valami
+Substance: 1masikvalami/2dsf/3alsdf/4alsdf
+Parameters: 3paramlesz
